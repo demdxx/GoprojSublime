@@ -1,0 +1,12 @@
+[
+	{
+		"id": "project",
+		"children":
+		[
+			{
+				"caption": "Edit .goproj",
+				"command": "goproj_edit"
+			}
+		]
+	}
+]

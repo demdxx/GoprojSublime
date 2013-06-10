@@ -1,0 +1,5 @@
+{
+    "cmd": ["/usr/local/bin/goproj", "install"]
+  , "working_dir": "${file_path}"
+  , "selector": ["source.go", ".goproj"]
+}
